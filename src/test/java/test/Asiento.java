@@ -11,7 +11,7 @@ public class Asiento {
 	/*Methods*/
 	 
 	 void Cambiarcolor(String color) {
-		 if (color.equals("rojo" )|| color.equals("verde") || color.equals("amarillo") || color.equals("negro") || color.equals("blanco")) {
+		 if (color.equals("rojo")|| color.equals("verde") || color.equals("amarillo") || color.equals("negro") || color.equals("blanco")) {
 			 
 			 this.color=color;
 		 
