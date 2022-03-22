@@ -7,7 +7,7 @@ public class Asiento {
 	 
 	 
 	 void cambiarcolor(String color) {
-		 if (color.equals("rojo")|| color.equals("verde") || color.equals("amarillo") || color.equals("negro") || color.equals("blanco")) {
+		 if (color==("rojo")|| color==("verde") || color==("amarillo") || color==("negro") || color==("blanco")) {
 			 
 			 this.color=color;
 		 
