@@ -7,6 +7,7 @@ public class Motor {
 	//Methods
 	
 	void cambiarRegistro(int registro) {
+		this.registro=registro;
 		
 	
 	}
