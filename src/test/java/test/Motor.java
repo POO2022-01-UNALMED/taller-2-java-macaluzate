@@ -1,12 +1,12 @@
 package test;
 public class Motor {
-	int NumeroCilindros;
+	int numeroCilindros;
 	String tipo;
 	int registro;
 	
 	//Methods
 	
-	void CambiarRegistro(int registro) {
+	void cambiarRegistro(int registro) {
 		
 	
 	}
